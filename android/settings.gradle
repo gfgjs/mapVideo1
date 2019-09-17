@@ -1,0 +1,3 @@
+rootProject.name = 'mapVideo1'
+
+include ':app'
